@@ -20,6 +20,4 @@ fun main(args: Array<String>) {
         imprimirConceito(nota.toInt())
     }
 
-
-
 }
